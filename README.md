@@ -1,2 +1,2 @@
 # Lexicon-based-sentiment-analysis.
-a simple application for the detection of feelings in texts based on the lexicon approach.
+A simple application for the detection of feelings in texts based on the lexicon approach for spanish language.
